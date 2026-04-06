@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**Alz2020/Alz2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science 
+🎓 BSc Software Dev 
+💻 Programmer & Data Engineer  
+📍 Based in Manchester UK  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- SQL (Microsoft SQL Server)
+- Power BI (Dashboards & Visualisation)
+- R (Statistical Analysis)
+- Data Cleaning & Transformation
+- JS full stack
+- PHP OOP
+- JSON
+- C++ OOP
+- CSS
+
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ali-y-alzabidi-5b0bab240
