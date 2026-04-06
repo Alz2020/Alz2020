@@ -3,7 +3,6 @@
 🎓 MSc Data Science 
 🎓 BSc Software Dev 
 💻 Programmer & Data Scientist 
-📍 Based in Manchester UK  
 
 ---
 
