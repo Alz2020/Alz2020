@@ -1,4 +1,4 @@
-# Hi, I'm Ali 👋
+# Hi, I'm Ali 
 
 🎓 MSc Data Science 
 🎓 BSc Software Dev 
@@ -19,4 +19,4 @@
 
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/ali-y-alzabidi-5b0bab240
+- LinkedIn: https://www.linkedin.com/in/a-alzabidi-5b0bab240
