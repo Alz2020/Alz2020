@@ -2,7 +2,7 @@
 
 MSc Data Science|
 BSc Software Dev|
-Programmer & Data Scientist| 
+Programmer & Data Scientist
 
 ---
 
