@@ -1,8 +1,8 @@
 # Hi, I'm Ali 
 
-MSc Data Science 
-BSc Software Dev 
-Programmer & Data Scientist 
+MSc Data Science|
+BSc Software Dev|
+Programmer & Data Scientist| 
 
 ---
 
